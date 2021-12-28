@@ -94,19 +94,19 @@
     "url": "https://sharex.jrp.best",
     "icon": "https://favicons.githubusercontent.com/sharex.jrp.best",
     "slug": "share-x-hosting",
-    "status": "down",
-    "uptime": "97.36%",
-    "uptimeDay": "97.36%",
-    "uptimeWeek": "97.36%",
-    "uptimeMonth": "97.36%",
-    "uptimeYear": "97.36%",
-    "time": 188,
-    "timeDay": 188,
-    "timeWeek": 188,
-    "timeMonth": 188,
-    "timeYear": 188,
+    "status": "up",
+    "uptime": "34.68%",
+    "uptimeDay": "34.68%",
+    "uptimeWeek": "34.68%",
+    "uptimeMonth": "34.68%",
+    "uptimeYear": "34.68%",
+    "time": 207,
+    "timeDay": 207,
+    "timeWeek": 207,
+    "timeMonth": 207,
+    "timeYear": 207,
     "dailyMinutesDown": {
-      "2021-12-28": 0
+      "2021-12-28": 14
     }
   }
 ]
