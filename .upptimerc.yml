@@ -13,6 +13,8 @@ sites:
     url: http://ntre.jrp.best
   - name: API Server
     url: http://api.jrp.best
+  - name: ShareX hosting
+    url: https://sharex.jrp.best
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
