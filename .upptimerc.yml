@@ -9,6 +9,8 @@ sites:
     url: https://none.jrp.best
   - name: Node 2
     url: https://ntwo.jrp.best
+  - name: Node 3
+    url: https://ntre.jrp.best
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
