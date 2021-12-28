@@ -13,7 +13,7 @@ sites:
   - name: API Server
     url: http://api.jrp.best
   - name: ShareX hosting
-    url: https://sharex.jrp.best
+    url: https://google.com
 
 status-website:
   cname: status.jrp.best
