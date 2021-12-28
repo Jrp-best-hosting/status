@@ -8,11 +8,11 @@ sites:
   - name: Node 1
     url: https://none.jrp.best
   - name: Node 2
-    url: https://ntwo.jrp.best
+    url: http://ntwo.jrp.best
   - name: Node 3
-    url: https://ntre.jrp.best
+    url: http://ntre.jrp.best
   - name: API Server
-    url: https://api.jrp.best
+    url: http://api.jrp.best
   - name: Google
     url: https://google.com
 
