@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Website
     url: https://jrp.best
+  - name: Node 1
+    url: https://none.jrp.best
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
