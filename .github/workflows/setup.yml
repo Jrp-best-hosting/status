@@ -30,7 +30,7 @@ jobs:
         with:
           command: "update-template"
         env:
-          token: ${{ secrets.GITHUBTOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUBTOKEN }}
       - name: Update response time
         uses: upptime/uptime-monitor@v1.26.4
         with:
