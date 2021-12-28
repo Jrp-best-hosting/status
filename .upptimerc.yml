@@ -1,6 +1,5 @@
-# Change these first
-owner: Jrp-best-hosting # Your GitHub organization or username, where this repository lives
-repo: status # The name of this repository
+owner: Jrp-best-hosting
+repo: status
 
 sites:
   - name: Website
@@ -17,10 +16,7 @@ sites:
     url: https://sharex.jrp.best
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.jrp.best
-  # baseUrl: /status
   theme: ocean
   logoUrl: https://raw.githubusercontent.com/Jrp-best-hosting/status/master/static/img/icon.svg
   name: Server Status
@@ -31,6 +27,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
