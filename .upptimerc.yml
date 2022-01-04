@@ -20,7 +20,7 @@ sites:
 status-website:
   cname: status.jrp.best
   theme: ocean
-  logoUrl: https://raw.githubusercontent.com/Jrp-best-hosting/status/master/static/img/icon.svg
+  logoUrl: https://givinghawk.xyz/uploaded/jrp.best-favicon.png
   name: Server Status
   introTitle: Server Status
   navbar:
