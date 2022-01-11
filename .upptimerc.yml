@@ -23,8 +23,8 @@ status-website:
   cname: status.jrp.best
   theme: ocean
   logoUrl: https://givinghawk.xyz/uploaded/jrp.best-favicon.png
-  name: Server Status
-  introTitle: Server Status
+  name: JrpBest Server Status
+  introTitle: JrpBest Server Status
   navbar:
     - title: Status
       href: /
