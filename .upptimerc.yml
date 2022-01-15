@@ -14,10 +14,8 @@ sites:
     url: http://api.jrp.best
   - name: ShareX hosting
     url: https://sharex.jrp.best
-  - name: Favicon Server 1
+  - name: File server
     url: https://img.jrp.best
-  - name: File Server
-    url: https://jrpbest-files.givinghawk.repl.co/api/v1/api.php
 
 status-website:
   cname: status.jrp.best
