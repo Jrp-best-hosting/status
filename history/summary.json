@@ -4,9 +4,9 @@
     "url": "https://jrp.best",
     "icon": "https://favicons.githubusercontent.com/jrp.best",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 342,
     "timeMonth": 282,
     "timeYear": 282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-15": 0
+    }
   },
   {
     "name": "Node 1",
@@ -94,9 +96,9 @@
     "url": "https://sharex.jrp.best",
     "icon": "https://favicons.githubusercontent.com/sharex.jrp.best",
     "slug": "share-x-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,16 +107,18 @@
     "timeWeek": 533,
     "timeMonth": 433,
     "timeYear": 433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-15": 0
+    }
   },
   {
     "name": "Favicon Server 1",
     "url": "https://img.jrp.best",
     "icon": "https://favicons.githubusercontent.com/img.jrp.best",
     "slug": "favicon-server-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +127,9 @@
     "timeWeek": 235,
     "timeMonth": 212,
     "timeYear": 212,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-15": 0
+    }
   },
   {
     "name": "File Server",
