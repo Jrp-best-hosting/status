@@ -16,7 +16,8 @@ sites:
     url: https://sharex.jrp.best
   - name: File server
     url: https://img.jrp.best
-
+  - name: Discord Tools
+    url: https://dtools.givinghawk.xyz
 status-website:
   cname: status.jrp.best
   theme: ocean
