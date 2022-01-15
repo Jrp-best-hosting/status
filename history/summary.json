@@ -4,19 +4,19 @@
     "url": "https://jrp.best",
     "icon": "https://favicons.githubusercontent.com/jrp.best",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 282,
-    "timeDay": 297,
-    "timeWeek": 342,
-    "timeMonth": 282,
-    "timeYear": 282,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 280,
+    "timeDay": 257,
+    "timeWeek": 329,
+    "timeMonth": 280,
+    "timeYear": 280,
     "dailyMinutesDown": {
-      "2022-01-15": 5
+      "2022-01-15": 19
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://sharex.jrp.best",
     "icon": "https://favicons.githubusercontent.com/sharex.jrp.best",
     "slug": "share-x-hosting",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 433,
-    "timeDay": 509,
-    "timeWeek": 533,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 431,
+    "timeDay": 448,
+    "timeWeek": 519,
+    "timeMonth": 431,
+    "timeYear": 431,
     "dailyMinutesDown": {
-      "2022-01-15": 5
+      "2022-01-15": 19
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://img.jrp.best",
     "icon": "https://favicons.githubusercontent.com/img.jrp.best",
     "slug": "file-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 490,
-    "timeWeek": 328,
-    "timeMonth": 328,
-    "timeYear": 328,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 305,
+    "timeDay": 328,
+    "timeWeek": 305,
+    "timeMonth": 305,
+    "timeYear": 305,
     "dailyMinutesDown": {
-      "2022-01-15": 0
+      "2022-01-15": 15
     }
   }
 ]
