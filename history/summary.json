@@ -134,19 +134,19 @@
     "url": "https://dtools.givinghawk.xyz",
     "icon": "https://favicons.githubusercontent.com/dtools.givinghawk.xyz",
     "slug": "discord-tools",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 516,
-    "timeWeek": 517,
-    "timeMonth": 465,
-    "timeYear": 465,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 458,
+    "timeDay": 418,
+    "timeWeek": 492,
+    "timeMonth": 458,
+    "timeYear": 458,
     "dailyMinutesDown": {
-      "2022-02-01": 0
+      "2022-02-01": 38
     }
   }
 ]
