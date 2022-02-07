@@ -134,9 +134,9 @@
     "url": "https://dtools.givinghawk.xyz",
     "icon": "https://favicons.githubusercontent.com/dtools.givinghawk.xyz",
     "slug": "discord-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "95.26%",
+    "uptimeDay": "95.25%",
     "uptimeWeek": "98.94%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.67%",
@@ -146,6 +146,7 @@
     "timeMonth": 1072,
     "timeYear": 1072,
     "dailyMinutesDown": {
+      "2022-02-07": 0,
       "2022-02-06": 68,
       "2022-02-01": 38
     }
