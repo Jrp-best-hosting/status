@@ -96,9 +96,9 @@
     "url": "https://sharex.jrp.best",
     "icon": "https://favicons.githubusercontent.com/sharex.jrp.best",
     "slug": "share-x-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -108,6 +108,7 @@
     "timeMonth": 456,
     "timeYear": 454,
     "dailyMinutesDown": {
+      "2022-02-27": 0,
       "2022-01-15": 19
     }
   },
@@ -135,11 +136,11 @@
     "icon": "https://favicons.githubusercontent.com/dtools.givinghawk.xyz",
     "slug": "discord-tools",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.68%",
     "time": 916,
     "timeDay": 882,
     "timeWeek": 1122,
