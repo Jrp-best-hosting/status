@@ -4,10 +4,10 @@
     "url": "https://jrp.best",
     "icon": "https://favicons.githubusercontent.com/jrp.best",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "78.17%",
-    "uptimeWeek": "96.88%",
+    "uptimeDay": "78.09%",
+    "uptimeWeek": "96.87%",
     "uptimeMonth": "99.28%",
     "uptimeYear": "99.64%",
     "time": 272,
@@ -16,7 +16,7 @@
     "timeMonth": 274,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2022-03-03": 314,
+      "2022-03-03": 315,
       "2022-01-15": 19
     }
   },
@@ -97,10 +97,10 @@
     "url": "https://sharex.jrp.best",
     "icon": "https://favicons.githubusercontent.com/sharex.jrp.best",
     "slug": "share-x-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "78.24%",
-    "uptimeWeek": "96.06%",
+    "uptimeDay": "78.20%",
+    "uptimeWeek": "96.05%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.56%",
     "time": 661,
@@ -109,7 +109,7 @@
     "timeMonth": 973,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2022-03-03": 314,
+      "2022-03-03": 315,
       "2022-02-27": 84,
       "2022-01-15": 19
     }
@@ -119,9 +119,9 @@
     "url": "https://img.jrp.best",
     "icon": "https://favicons.githubusercontent.com/img.jrp.best",
     "slug": "file-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "78.31%",
+    "uptimeDay": "78.30%",
     "uptimeWeek": "96.90%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.58%",
