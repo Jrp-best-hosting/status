@@ -4,10 +4,10 @@
     "url": "https://jrp.best",
     "icon": "https://favicons.githubusercontent.com/jrp.best",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 271,
@@ -16,6 +16,7 @@
     "timeMonth": 270,
     "timeYear": 271,
     "dailyMinutesDown": {
+      "2022-03-03": 1,
       "2022-01-15": 19
     }
   },
@@ -96,10 +97,10 @@
     "url": "https://sharex.jrp.best",
     "icon": "https://favicons.githubusercontent.com/sharex.jrp.best",
     "slug": "share-x-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.17%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.16%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.89%",
     "time": 620,
@@ -108,6 +109,7 @@
     "timeMonth": 902,
     "timeYear": 620,
     "dailyMinutesDown": {
+      "2022-03-03": 1,
       "2022-02-27": 84,
       "2022-01-15": 19
     }
@@ -117,9 +119,9 @@
     "url": "https://img.jrp.best",
     "icon": "https://favicons.githubusercontent.com/img.jrp.best",
     "slug": "file-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -128,7 +130,9 @@
     "timeWeek": 168,
     "timeMonth": 179,
     "timeYear": 196,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 0
+    }
   },
   {
     "name": "Discord Tools",
