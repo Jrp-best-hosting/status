@@ -27,18 +27,18 @@
     "icon": "https://favicons.githubusercontent.com/none.jrp.best",
     "slug": "node-1",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "89.00%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.85%",
+    "uptimeDay": "85.00%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.85%",
     "time": 181,
     "timeDay": 40,
     "timeWeek": 251,
     "timeMonth": 199,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2022-04-05": 158
+      "2022-04-05": 216
     }
   },
   {
@@ -47,18 +47,18 @@
     "icon": "https://favicons.githubusercontent.com/ntwo.jrp.best",
     "slug": "node-2",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "89.01%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.85%",
+    "uptimeDay": "85.00%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.85%",
     "time": 143,
     "timeDay": 102,
     "timeWeek": 263,
     "timeMonth": 177,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2022-04-05": 158
+      "2022-04-05": 216
     }
   },
   {
@@ -67,18 +67,18 @@
     "icon": "https://favicons.githubusercontent.com/ntre.jrp.best",
     "slug": "node-3",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "89.01%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.85%",
+    "uptimeDay": "85.00%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.85%",
     "time": 137,
     "timeDay": 50,
     "timeWeek": 193,
     "timeMonth": 161,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2022-04-05": 158
+      "2022-04-05": 216
     }
   },
   {
@@ -87,18 +87,18 @@
     "icon": "https://favicons.githubusercontent.com/api.jrp.best",
     "slug": "api-server",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "89.01%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.85%",
+    "uptimeDay": "85.00%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.85%",
     "time": 132,
     "timeDay": 38,
     "timeWeek": 106,
     "timeMonth": 131,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2022-04-05": 158
+      "2022-04-05": 216
     }
   },
   {
@@ -131,18 +131,18 @@
     "icon": "https://favicons.githubusercontent.com/img.jrp.best",
     "slug": "file-server",
     "status": "down",
-    "uptime": "98.46%",
-    "uptimeDay": "1.60%",
-    "uptimeWeek": "85.07%",
-    "uptimeMonth": "96.56%",
-    "uptimeYear": "98.46%",
+    "uptime": "98.41%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "84.49%",
+    "uptimeMonth": "96.43%",
+    "uptimeYear": "98.41%",
     "time": 180,
     "timeDay": 0,
     "timeWeek": 103,
     "timeMonth": 149,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2022-04-05": 850,
+      "2022-04-05": 908,
       "2022-04-04": 566,
       "2022-03-30": 88,
       "2022-03-03": 374
@@ -153,9 +153,9 @@
     "url": "https://dtools.givinghawk.xyz",
     "icon": "https://favicons.githubusercontent.com/dtools.givinghawk.xyz",
     "slug": "discord-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.89%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.59%",
@@ -165,6 +165,7 @@
     "timeMonth": 634,
     "timeYear": 791,
     "dailyMinutesDown": {
+      "2022-04-05": 0,
       "2022-04-03": 24,
       "2022-03-31": 26,
       "2022-03-30": 22,
